@@ -6,7 +6,7 @@ AI-powered pharmacogenomics learning tool using Google DeepMind's AlphaGenome.
 
 1. Clone the repository
 2. Copy `.env.example` to `.env` and add your AlphaGenome API key (optional for demo)
-3. Run with Docker: `docker-compose up -d`
+3. Run with Docker: `docker compose up -d`
 4. Access the app at http://localhost:3000
 
 ## Development Setup
